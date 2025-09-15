@@ -1,3 +1,2 @@
-This is new file nitesh... 
-new line added
-some changes
+This is new file nitesh
+done done
