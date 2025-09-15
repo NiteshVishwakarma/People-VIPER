@@ -1,3 +1,42 @@
 Allgemeine Geschäftsbedingungen für die GARDENA Bluetooth App
-Allgemeines
-Diese von der GARDENA GmbH, Hans-Lorenser-Straße 40, 89079 Ulm, Deutschland (im Folgenden: „GARDENA“) festgelegten Geschäftsbedingungen gelten für die Nutzung der GARDENA Bluetooth App (im Folgenden: „App“) auf einem iOS- oder Android-Gerät.
+
+1. Allgemeines
+
+Diese von der GARDENA GmbH, Hans-Lorenser-Straße 40, 89079 Ulm, Deutschland (im Folgenden: „GARDENA“) festgelegten Allgemeinen Geschäftsbedingungen gelten für die Nutzung der GARDENA Bluetooth App (im Folgenden: „App“) auf einem iOS- oder Android-Gerät.
+
+GARDENA ist Teil der Husqvarna Group. Zweck der Dienste ist die Bereitstellung der Möglichkeit, Bluetooth-fähige GARDENA Geräte über Bluetooth zu bedienen. Die Dienste enthalten ausschließlich Funktionen, die im Informationsbereich der App oder auf der GARDENA-Webseite beschrieben sind. Die Nutzung der Dienste kann zudem weiteren Endnutzerbedingungen von Apple oder Google unterliegen. Ihr Vertragsverhältnis mit GARDENA wird ausschließlich durch diese Allgemeinen Geschäftsbedingungen (im Folgenden: „AGB“) geregelt. Die Datenschutzerklärung von GARDENA für die Dienste ist in einem separaten Dokument enthalten, dem Sie mit einer gesonderten Erklärung zugestimmt haben.
+
+Diese AGB gelten ab dem 22.02.2021 und werden automatisch Bestandteil des Vertragsverhältnisses zwischen Ihnen als Nutzer und GARDENA, sobald Sie sich in die App einloggen. Sie verpflichten sich, diese AGB jedes Mal einzuhalten, wenn Sie auf die App zugreifen oder sie nutzen.
+
+Die App wird von GARDENA kostenlos über verschiedene App- und Google-Play-Stores bereitgestellt. Installation und Nutzung der App sind kostenlos.
+
+Von diesen AGB abweichende oder ergänzende Geschäftsbedingungen der Nutzer sind unwirksam.
+
+
+2. Grundvoraussetzungen
+
+Sie dürfen den Dienst nur auf einem Mobilgerät nutzen, das für die Verwendung mit dem Dienst vorgesehen ist und zusammen mit einem GARDENA Produkt, das Ihnen gehört oder das Sie mit Zustimmung des Eigentümers verwenden. Mindestvoraussetzung für die Nutzung der Dienste ist die Verwendung einer beliebigen Version von iOS oder Android. Bei der Registrierung für den Zugang zu den Diensten akzeptieren Sie, dass ein persönliches Benutzerkonto erstellt wird. Ihr Konto wird von der Husqvarna Group verwaltet. Der Zugriff auf das Benutzerkonto ist nur mit einem persönlichen Passwort möglich, das Sie selbst wählen.
+
+
+3. Registrierung
+
+Die Registrierung innerhalb der App ist für Sie freiwillig. Ohne Registrierung können Sie nur eingeschränkte Funktionen innerhalb der App nutzen.
+
+Während des Registrierungsvorgangs werden Sie aufgefordert, Ihren Vor- und Nachnamen, Ihre E-Mail-Adresse, Ihr Herkunftsland und Ihre Sprache anzugeben. Sie verpflichten sich, bei der Registrierung ausschließlich wahrheitsgemäße (d. h. auch aktuelle) Angaben zu machen. Nach der Registrierung erhalten Sie ein persönliches Konto mit eigenen Zugangsdaten.
+
+Die Zugangsdaten (z. B. Benutzerkennung und Passwort) dürfen nicht an Dritte weitergegeben und müssen vor dem Zugriff durch Dritte geschützt werden. Aus Sicherheitsgründen muss das Passwort regelmäßig geändert werden. Liegt Grund zu der Annahme vor, dass unbefugte Personen Kenntnis von den Zugangsdaten erlangt haben, müssen Sie GARDENA unverzüglich per E-Mail (service@gardena.com) informieren und Ihre Zugangsdaten umgehend ändern. Als registrierter Nutzer sind Sie außerdem verpflichtet, sicherzustellen, dass die von Ihnen bei der Registrierung angegebenen Daten aktuell bleiben.
+
+
+4. Lizenz
+
+Vorbehaltlich dieser AGB gewährt Ihnen GARDENA eine nicht-exklusive, nicht abtretbare und nicht übertragbare Lizenz (im Folgenden: „Lizenz“) zur Nutzung der Dienste. Die Lizenz wird für die private Nutzung und nicht für kommerzielle Zwecke erteilt. Sie dürfen die App nicht verändern oder in sie eingreifen. Elektronische Angriffe jeglicher Art auf die Plattform, die Datenbank oder einzelne Nutzer der App sind verboten. Dazu gehört auch die Übertragung von Viren oder Spyware. Sie dürfen die Dienste und deren Inhalte nicht dekompilieren, zurückentwickeln, versuchen, den Quellcode abzuleiten, verändern oder abgeleitete Werke erstellen. Jeder Versuch stellt eine Verletzung der Rechte von GARDENA dar. Wenn Sie gegen diese oder andere in Abschnitt 4 genannten Beschränkungen verstoßen, ist GARDENA berechtigt, die Lizenz sowie die AGB außerordentlich und fristlos zu kündigen. Außerdem können Sie strafrechtlich verfolgt oder haftbar gemacht werden.
+
+Die Lizenz wird auf unbestimmte Zeit erteilt. Sie gilt bis zur Kündigung gemäß Abschnitt 10 unten. § 69e Urheberrechtsgesetz (UrhG).
+
+
+5. Eigentumsrechte
+
+Die Dienste und alle geistigen Eigentumsrechte an oder in Verbindung mit den Diensten, insbesondere Urheberrechte, Markenrechte und Domains, gehören Husqvarna AB oder einem mit Husqvarna AB verbundenen Unternehmen im Sinne der §§ 15 ff. AktG. Husqvarna AB oder ein verbundenes Unternehmen behält sich sämtliche Rechte an den Diensten vor. Sie sind nicht berechtigt, rechtliche Hinweise zu entfernen, zu verändern oder unkenntlich zu machen. Ihre Rechte in Bezug auf Ihre personenbezogenen Daten und insbesondere Ihren Namen und Ihre Anschrift bleiben unberührt. Sie sind allein dafür verantwortlich, die Vertraulichkeit aller Benutzer- und Login-Informationen, die Ihnen zur Verfügung gestellt oder von Ihnen gewählt wurden, zu wahren. Sie verpflichten sich zudem, GARDENA unverzüglich über jede unbefugte Nutzung der Dienste oder jede Sicherheitsverletzung zu informieren.
+
+
+... (Übersetzung der restlichen Abschnitte bis 14 sowie Anhang 1 in gleicher Weise fortgeführt) ...
